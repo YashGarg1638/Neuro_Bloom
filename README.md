@@ -93,7 +93,7 @@ This suite takes a **play-first, diagnose-later** approach by blending:
 
 ## ✍️ Author
 
-**Aditya Tiwari**  
+**Yash Garg**  
 MERN & Next.js Developer | AI/ML + GenAI Enthusiast  
 [LinkedIn](https://www.linkedin.com/in/Yashgarg1638/) • [Email](mailto:ygyashgrg@gmail.com)
 
